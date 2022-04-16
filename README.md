@@ -1,0 +1,2 @@
+# global_pointer_pytorch
+基于bert4torch框架，global_pointer的pytorch简介实现
